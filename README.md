@@ -17,7 +17,7 @@ The entire descriptor construction process is illustrated in the following video
 | i-LIDS | [HS+RGB+HOG](https://www.dropbox.com/s/obdus8e78ei694s/iLIDS.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/szmdwk8nzoqincn/iLIDS_ext.zip?dl=0) |
 | ETHZ1 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP]() |
 | ETHZ2 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/fmcn05jxsjjt5n7/ETHZ2_ext.zip?dl=0) |
-| ETHZ3 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/jof14inz2movrk4/ETHZ3_ext.zip?dl=0) |
+| ETHZ3 | [HS+RGB+HOG](https://www.dropbox.com/s/siy67n9otqa5nvk/ETHZ3.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/jof14inz2movrk4/ETHZ3_ext.zip?dl=0) |
 | 3DPeS | [HS+RGB+HOG](https://www.dropbox.com/s/lt9xkpow1uhcf7y/3DPeS.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/97eylitxd7829oa/3DPeS_ext.zip?dl=0) |
 | CUHK01 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP]() |
 | PRID450s | [HS+RGB+HOG](https://www.dropbox.com/s/nu3b96tmyjb6q2v/prid_450s_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/p2dg3xpw54ykmbv/prid_450s_icdsc.mat.zip?dl=0) |
