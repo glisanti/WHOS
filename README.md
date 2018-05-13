@@ -2,7 +2,7 @@
 
 We have designed a discriminative and efficient descriptor of person appearance for re-identification based on coarse, striped pooling of local features. It exploits a simple yet effective center support kernel to approximately segment foreground from background. The entire descriptor construction process is illustrated in the following figure:
 
-[![Watch the video](https://github.com/glisanti/WHOS/media/descriptor.png)](https://www.youtube.com/watch?v=fkdraLVZYww)
+[![Watch the video](https://github.com/glisanti/WHOS/media/descriptor.png)](https://www.youtube.com/watch?v=fkdraLVZYww)]
 
 
 If you want to receive the descriptor extracted on a particular dataset please send me (giuseppe[dot]lisanti[at]unipv[dot]it) a zip file containing all the images with the following format:
