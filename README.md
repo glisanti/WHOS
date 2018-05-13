@@ -8,6 +8,9 @@ The entire descriptor construction process is illustrated in the following video
 
 [![Watch the video](/media/descriptor.png)](https://www.youtube.com/watch?v=fkdraLVZYww)
 
+**WHOS Descriptor:**
+| Dataset | HS+RGB+HOG | HS+RGB+HOG |
+|---|---|---|
 
 If you want to receive the descriptor extracted on a particular dataset please send me (giuseppe[dot]lisanti[at]unipv[dot]it) a zip file containing all the images with the following format:
 ```
