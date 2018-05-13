@@ -16,7 +16,7 @@ The entire descriptor construction process is illustrated in the following video
 | CAVIAR4REID | [HS+RGB+HOG](https://www.dropbox.com/s/ktqud6fbhxt8wca/CAVIARa.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/ku9u3f2az0700z8/CAVIARa_ext.zip?dl=0) |
 | i-LIDS | [HS+RGB+HOG](https://www.dropbox.com/s/obdus8e78ei694s/iLIDS.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/szmdwk8nzoqincn/iLIDS_ext.zip?dl=0) |
 | ETHZ1 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP]() |
-| ETHZ2 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/fmcn05jxsjjt5n7/ETHZ2_ext.zip?dl=0) |
+| ETHZ2 | [HS+RGB+HOG](https://www.dropbox.com/s/qom7egrawli6u4z/ETHZ2.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/fmcn05jxsjjt5n7/ETHZ2_ext.zip?dl=0) |
 | ETHZ3 | [HS+RGB+HOG](https://www.dropbox.com/s/siy67n9otqa5nvk/ETHZ3.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/jof14inz2movrk4/ETHZ3_ext.zip?dl=0) |
 | 3DPeS | [HS+RGB+HOG](https://www.dropbox.com/s/lt9xkpow1uhcf7y/3DPeS.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/97eylitxd7829oa/3DPeS_ext.zip?dl=0) |
 | CUHK01 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP]() |
