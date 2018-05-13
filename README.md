@@ -19,13 +19,13 @@ The descriptor takes only 5ms to be extracted!
 > @ARTICLE{LisantiPAMI14,\
 >  author={Lisanti, G. and Masi, I. and Bagdanov, A. and Del Bimbo, A.},\
 >  journal={Pattern Analysis and Machine Intelligence, IEEE Transactions on},\
->  title={Person Re-identification by Iterative Re-weighted Sparse Ranking}, 
->  year={2014}, 
->  volume={PP}, 
->  number={99}, 
->  pages={1-1}, 
->  doi={10.1109/TPAMI.2014.2369055}, 
->  ISSN={0162-8828}
+>  title={Person Re-identification by Iterative Re-weighted Sparse Ranking},\
+>  year={2014},\
+>  volume={PP},\
+>  number={99},\
+>  pages={1-1},\
+>  doi={10.1109/TPAMI.2014.2369055},\
+>  ISSN={0162-8828}\
 >}
 
 **Other papers related to this descriptor:**
