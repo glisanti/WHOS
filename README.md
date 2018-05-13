@@ -10,8 +10,19 @@ The entire descriptor construction process is illustrated in the following video
 
 **WHOS Descriptor:**
 
-| Dataset | HS+RGB+HOG | HS+RGB+HOG |
+| Dataset | HS+RGB+HOG | HS+RGB+Lab+HOG+LBP |
 |---|---|---|
+| VIPeR | | |
+| CAVIAR4REID | | |
+| i-LIDS | | |
+| ETHZ1 | | |
+| ETHZ2 | | |
+| ETHZ3 | | |
+| 3DPeS | | |
+| CUHK01 | | |
+| PRID450s | | |
+| GRID | | |
+| Marker-1501 v15.09.15|||
 
 If you want to receive the descriptor extracted on a particular dataset please send me (giuseppe[dot]lisanti[at]unipv[dot]it) a zip file containing all the images with the following format:
 ```
