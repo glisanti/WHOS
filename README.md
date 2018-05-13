@@ -2,7 +2,7 @@
 
 We have designed a discriminative and efficient descriptor of person appearance for re-identification based on coarse, striped pooling of local features. It exploits a simple yet effective center support kernel to approximately segment foreground from background. 
 
-The entire descriptor construction process is illustrated in the following video (click):
+The entire descriptor construction process is illustrated in the following video (click on the image):
 
 [![Watch the video](/media/descriptor.png)](https://www.youtube.com/watch?v=fkdraLVZYww)
 
@@ -17,7 +17,7 @@ where:
 - *CCC* represents the number of the camera.
 - *EEE* is the extesion; you can send me PNG, JPG, BMP (preferable PNG).
 
-The descriptor takes only 5ms to be extracted!
+*The descriptor takes only 5ms to be extracted!*
 
 **Please cite our paper if you use this descriptor:**
 > @ARTICLE{LisantiPAMI14,\
