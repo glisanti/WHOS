@@ -1,5 +1,7 @@
 # WHOS
 
+## Weighted Histogram of Overlapping Stripes
+
 We have designed a discriminative and efficient descriptor of person appearance for re-identification based on coarse, striped pooling of local features. It exploits a simple yet effective center support kernel to approximately segment foreground from background. 
 
 The entire descriptor construction process is illustrated in the following video (click on the image):
