@@ -1,6 +1,8 @@
 # WHOS
 
-We have designed a discriminative and efficient descriptor of person appearance for re-identification based on coarse, striped pooling of local features. It exploits a simple yet effective center support kernel to approximately segment foreground from background. The entire descriptor construction process is illustrated in the following figure:
+We have designed a discriminative and efficient descriptor of person appearance for re-identification based on coarse, striped pooling of local features. It exploits a simple yet effective center support kernel to approximately segment foreground from background. 
+
+The entire descriptor construction process is illustrated in the following video (click):
 
 [![Watch the video](/media/descriptor.png)](https://www.youtube.com/watch?v=fkdraLVZYww)
 
