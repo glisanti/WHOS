@@ -6,9 +6,6 @@ We have designed a discriminative and efficient descriptor of person appearance 
 
 The entire descriptor construction process is illustrated in the following video (click on the image):
 
-[video width="1280" height="717" m4v="https://www.youtube.com/watch?v=fkdraLVZYww" poster="/media/descriptor.png"][/video]
-
-
 [![Watch the video](/media/descriptor.png)](https://www.youtube.com/watch?v=fkdraLVZYww)
 
 
