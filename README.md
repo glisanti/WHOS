@@ -14,7 +14,7 @@ The entire descriptor construction process is illustrated in the following video
 |---|---|---|
 | VIPeR | | |
 | CAVIAR4REID | | |
-| i-LIDS | [HS+RGB+HOG](https://www.dropbox.com/s/obdus8e78ei694s/iLIDS.mat_.zip?dl=0) | HS+RGB+Lab+HOG+LBP |
+| i-LIDS | [HS+RGB+HOG](https://www.dropbox.com/s/obdus8e78ei694s/iLIDS.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/szmdwk8nzoqincn/iLIDS_ext.zip?dl=0) |
 | ETHZ1 | | |
 | ETHZ2 | | |
 | ETHZ3 | | |
