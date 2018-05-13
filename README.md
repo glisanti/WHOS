@@ -6,7 +6,10 @@ We have designed a discriminative and efficient descriptor of person appearance 
 
 The entire descriptor construction process is illustrated in the following video (click on the image):
 
-[![Watch the video](/media/descriptor.png){:height="775px" width="1042px"}](https://www.youtube.com/watch?v=fkdraLVZYww)
+[video width="1280" height="717" m4v="https://www.youtube.com/watch?v=fkdraLVZYww" poster="/media/descriptor.png"][/video]
+
+
+[![Watch the video](/media/descriptor.png)](https://www.youtube.com/watch?v=fkdraLVZYww)
 
 
 If you want to receive the descriptor extracted on a particular dataset please send me (giuseppe[dot]lisanti[at]unipv[dot]it) a zip file containing all the images with the following format:
