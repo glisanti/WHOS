@@ -9,6 +9,7 @@ The entire descriptor construction process is illustrated in the following video
 [![Watch the video](/media/descriptor.png)](https://www.youtube.com/watch?v=fkdraLVZYww)
 
 **WHOS Descriptor:**
+
 | Dataset | HS+RGB+HOG | HS+RGB+HOG |
 |---|---|---|
 
