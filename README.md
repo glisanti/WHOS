@@ -19,7 +19,7 @@ The entire descriptor construction process is illustrated in the following video
 | ETHZ2 | [HS+RGB+HOG](https://www.dropbox.com/s/qom7egrawli6u4z/ETHZ2.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/fmcn05jxsjjt5n7/ETHZ2_ext.zip?dl=0) |
 | ETHZ3 | [HS+RGB+HOG](https://www.dropbox.com/s/siy67n9otqa5nvk/ETHZ3.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/jof14inz2movrk4/ETHZ3_ext.zip?dl=0) |
 | 3DPeS | [HS+RGB+HOG](https://www.dropbox.com/s/lt9xkpow1uhcf7y/3DPeS.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/97eylitxd7829oa/3DPeS_ext.zip?dl=0) |
-| CUHK01 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP]() |
+| CUHK01 | [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/y8a6b5i73liwqv6/CUHK01_icdsc.mat.zip?dl=0) |
 | PRID450s | [HS+RGB+HOG](https://www.dropbox.com/s/nu3b96tmyjb6q2v/prid_450s_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/p2dg3xpw54ykmbv/prid_450s_icdsc.mat.zip?dl=0) |
 | GRID | [HS+RGB+HOG](https://www.dropbox.com/s/avxqzswuaaqnzqi/underground_reid_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/5ic59idve09ln1q/underground_reid_icdsc.mat.zip?dl=0) |
 | Market-1501 v15.09.15| [HS+RGB+HOG]() | [HS+RGB+Lab+HOG+LBP]() |
