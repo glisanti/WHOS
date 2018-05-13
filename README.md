@@ -10,11 +10,11 @@ The entire descriptor construction process is illustrated in the following video
 
 **WHOS Descriptor:**
 
-| Dataset | HS+RGB+HOG | HS+RGB+Lab+HOG+LBP |
+| Dataset |  |  |
 |---|---|---|
 | VIPeR | | |
 | CAVIAR4REID | | |
-| i-LIDS | | |
+| i-LIDS | [HS+RGB+HOG](https://www.dropbox.com/s/obdus8e78ei694s/iLIDS.mat_.zip?dl=0) | HS+RGB+Lab+HOG+LBP |
 | ETHZ1 | | |
 | ETHZ2 | | |
 | ETHZ3 | | |
