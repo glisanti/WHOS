@@ -24,17 +24,7 @@ The entire descriptor construction process is illustrated in the following video
 | PRID450s | [HS+RGB+HOG](https://www.dropbox.com/s/nu3b96tmyjb6q2v/prid_450s_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/p2dg3xpw54ykmbv/prid_450s_icdsc.mat.zip?dl=0) |
 | VIPeR | [HS+RGB+HOG](https://www.dropbox.com/s/ishg01gyj4ql3cq/VIPeR.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/l9khu2qxl5u6gca/VIPeR_ext.zip?dl=0) |
 
-If you want to receive the descriptor extracted on a particular dataset please send me (giuseppe[dot]lisanti[at]unipv[dot]it) a zip file containing all the images with the following format:
-```
-PPPPPIIIIIIICCC.EEE
-```
-where:
-- *PPPPP* represents the ID of the individual.
-- *IIIIIII* represents the number of the image (of the cropped person image).
-- *CCC* represents the number of the camera.
-- *EEE* is the extesion; you can send me PNG, JPG, BMP (preferable PNG).
-
-*The descriptor takes only 5ms to be extracted!*
+If you want to receive the descriptor extracted on a particular dataset please send me (giuseppe[dot]lisanti[at]unipv[dot]it) an email.
 
 **Please cite our paper if you use this descriptor:**
 > @ARTICLE{LisantiTPAMI15,\
