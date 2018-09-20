@@ -16,15 +16,15 @@ The entire descriptor construction process is illustrated in the following video
 | CAVIAR4REID | [HS+RGB+HOG](https://drive.google.com/file/d/1tcFY7UiQs9DpBxEQQtvt5Fvls6fnZjQU/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1hmMmnLrvmTBBnmh-WtLfDDymoxYasjC7/view?usp=sharing) |
 | CUHK01 | [HS+RGB+HOG](https://drive.google.com/file/d/1ZU536dEu810BAa6psYQWf-lVdWMXB26C/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/10VsJ-O0jfLy5BpWtUG5V8h6TmJd269Qr/view?usp=sharing) |
 | CUHK03 | [HS+RGB+HOG](https://drive.google.com/file/d/1MLQlvydqpbz7X5uoCzcUhRdcbB9dOXkL/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/10VsJ-O0jfLy5BpWtUG5V8h6TmJd269Qr/view?usp=sharing) |
-| DukeMTMC-reID | [HS+RGB+HOG](https://www.dropbox.com/s/swyx5ojlfij1hau/DukeMTMC-reID_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/ubkj0v16ftv6g36/DukeMTMC-reID_icdsc.mat.zip?dl=0) |
-| ETHZ1 | [HS+RGB+HOG](https://www.dropbox.com/s/phiab5aw8ddssbx/ETHZ1.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/uvfvl0u1bru064m/ETHZ1_ext.zip?dl=0) |
-| ETHZ2 | [HS+RGB+HOG](https://www.dropbox.com/s/qom7egrawli6u4z/ETHZ2.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/fmcn05jxsjjt5n7/ETHZ2_ext.zip?dl=0) |
-| ETHZ3 | [HS+RGB+HOG](https://www.dropbox.com/s/siy67n9otqa5nvk/ETHZ3.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/jof14inz2movrk4/ETHZ3_ext.zip?dl=0) |
-| i-LIDS | [HS+RGB+HOG](https://www.dropbox.com/s/obdus8e78ei694s/iLIDS.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/szmdwk8nzoqincn/iLIDS_ext.zip?dl=0) |
-| GRID | [HS+RGB+HOG](https://www.dropbox.com/s/avxqzswuaaqnzqi/underground_reid_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/5ic59idve09ln1q/underground_reid_icdsc.mat.zip?dl=0) |
-| Market-1501 v15.09.15| [HS+RGB+HOG](https://www.dropbox.com/s/spicz8ike37cxgi/Market-1501-v15.09.15_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/0d4vo1s2c44z3d9/Market-1501-v15.09.15_icdsc.mat.zip?dl=0) |
-| PRID450s | [HS+RGB+HOG](https://www.dropbox.com/s/nu3b96tmyjb6q2v/prid_450s_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/p2dg3xpw54ykmbv/prid_450s_icdsc.mat.zip?dl=0) |
-| VIPeR | [HS+RGB+HOG](https://www.dropbox.com/s/ishg01gyj4ql3cq/VIPeR.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/l9khu2qxl5u6gca/VIPeR_ext.zip?dl=0) |
+| DukeMTMC-reID | [HS+RGB+HOG](https://drive.google.com/file/d/1jxOoUKFaQ-iRB8U5dHxcd4pH49nt-vdm/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1HZmvJtKrgKFrk671GIYqVx0tWMFkUX73/view?usp=sharing) |
+| ETHZ1 | [HS+RGB+HOG](https://drive.google.com/file/d/1jWnh7wPnDqlZVrHq5S87h7PAJkjskCFw/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1L44OwssXSDvQG91vmBNdw7pA8opCnz4o/view?usp=sharing) |
+| ETHZ2 | [HS+RGB+HOG](https://drive.google.com/file/d/1f6a6PkWevcMFZBorwaAzMSrhE60gkAkF/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/13CvngYB7WjfRlIVHYPPSzdNzhmqfVCrW/view?usp=sharing) |
+| ETHZ3 | [HS+RGB+HOG](https://drive.google.com/file/d/1ssZeUaGH97JowWGHJZ712rd0O6eKaqTh/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1BXR8jkDoGRznPCbcaJumPKmV6peB4epC/view?usp=sharing) |
+| i-LIDS | [HS+RGB+HOG](https://drive.google.com/file/d/1eYqcakD4sxLxgX9yUhPtVWo_snZLGJAA/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1u-LUImZjm4fRcRV42XUm8p6W36qn0k-p/view?usp=sharing) |
+| GRID | [HS+RGB+HOG](https://drive.google.com/file/d/15IBSf_QaPYemmDy9ayo2WLZtEHJrOegi/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1kN_ZZFcHbvzC6KUy5Kx4UrszFxUtORD3/view?usp=sharing) |
+| Market-1501 v15.09.15| [HS+RGB+HOG](https://drive.google.com/file/d/1WZBA5YvWlGI22b5qrwV6ekqlGkjHWr4h/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1EvoRmb-ekleVyP9cLzk6kAaMJM6fD1p1/view?usp=sharing) |
+| PRID450s | [HS+RGB+HOG](https://drive.google.com/file/d/1HGDPLLqgqNQJM0xTxox20cKO5cumxHo8/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1VkuNPvqZGgZ84h21NXbXliqaMYASg2Fb/view?usp=sharing) |
+| VIPeR | [HS+RGB+HOG](https://drive.google.com/file/d/1Lv7CNjDGPWxmDvNV0HQJKCStzihila6-/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1d3LuJNBSKXzNdIez9rBfK7gPfaFR6DWi/view?usp=sharing) |
 
 If you want to receive the descriptor extracted on a particular dataset please send me (giuseppe[dot]lisanti[at]unipv[dot]it) an email.
 
