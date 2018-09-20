@@ -12,10 +12,10 @@ The entire descriptor construction process is illustrated in the following video
 
 | Dataset |  |  |
 |---|---|---|
-| 3DPeS | [HS+RGB+HOG](https://www.dropbox.com/s/lt9xkpow1uhcf7y/3DPeS.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/97eylitxd7829oa/3DPeS_ext.zip?dl=0) |
-| CAVIAR4REID | [HS+RGB+HOG](https://www.dropbox.com/s/ktqud6fbhxt8wca/CAVIARa.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/ku9u3f2az0700z8/CAVIARa_ext.zip?dl=0) |
-| CUHK01 | [HS+RGB+HOG](https://www.dropbox.com/s/xvvorbc0fup135q/CUHK01_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/y8a6b5i73liwqv6/CUHK01_icdsc.mat.zip?dl=0) |
-| CUHK03 | [HS+RGB+HOG](https://www.dropbox.com/s/bjvu549ydqvrg9c/CUHK03img_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/z5ievzar3sf89gq/CUHK03img_icdsc.mat.zip?dl=0) |
+| 3DPeS | [HS+RGB+HOG](https://drive.google.com/file/d/1H04BSUp8ithWKMwsUUVTrcmpUL_9WOi2/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1f8Tb60ecryVl4e_2R5iRoxMssO2Q85LB/view?usp=sharing) |
+| CAVIAR4REID | [HS+RGB+HOG](https://drive.google.com/file/d/1tcFY7UiQs9DpBxEQQtvt5Fvls6fnZjQU/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/1hmMmnLrvmTBBnmh-WtLfDDymoxYasjC7/view?usp=sharing) |
+| CUHK01 | [HS+RGB+HOG](https://drive.google.com/file/d/1ZU536dEu810BAa6psYQWf-lVdWMXB26C/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/10VsJ-O0jfLy5BpWtUG5V8h6TmJd269Qr/view?usp=sharing) |
+| CUHK03 | [HS+RGB+HOG](https://drive.google.com/file/d/1MLQlvydqpbz7X5uoCzcUhRdcbB9dOXkL/view?usp=sharing) | [HS+RGB+Lab+HOG+LBP](https://drive.google.com/file/d/10VsJ-O0jfLy5BpWtUG5V8h6TmJd269Qr/view?usp=sharing) |
 | DukeMTMC-reID | [HS+RGB+HOG](https://www.dropbox.com/s/swyx5ojlfij1hau/DukeMTMC-reID_pami.mat.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/ubkj0v16ftv6g36/DukeMTMC-reID_icdsc.mat.zip?dl=0) |
 | ETHZ1 | [HS+RGB+HOG](https://www.dropbox.com/s/phiab5aw8ddssbx/ETHZ1.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/uvfvl0u1bru064m/ETHZ1_ext.zip?dl=0) |
 | ETHZ2 | [HS+RGB+HOG](https://www.dropbox.com/s/qom7egrawli6u4z/ETHZ2.mat_.zip?dl=0) | [HS+RGB+Lab+HOG+LBP](https://www.dropbox.com/s/fmcn05jxsjjt5n7/ETHZ2_ext.zip?dl=0) |
